@@ -18,7 +18,7 @@
     display: flex;
     list-style-type: none;
 }
-a{
+.bar{
     color: black;
     background-color: cornsilk;
     padding: 5px;
